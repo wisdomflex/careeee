@@ -62,17 +62,17 @@ const Footer = () => {
             <ListGroup className='footer__contact'>
               <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-2'>
                 <span><i class="ri-map-pin-2-line"></i></span>
-                <p>127 Glover Court, Ikoyi, Lagos, Nigeria</p>
+                <p>15, Adebayo Olukanmi, Beger Lagos.</p>
               </ListGroupItem>
 
               <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-2'>
               <span><i class="ri-phone-line"></i></span>
-                <p>+234 809 456 7889</p>
+                <p>+234 904 570 1934</p>
               </ListGroupItem>
 
               <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-2'>
               <span><i class="ri-mail-line"></i></span>
-                <p>carefinderorg@gmail.com</p>
+                <p>oluwatosinbenson@10gmail.com</p>
               </ListGroupItem>
 
             </ListGroup>
@@ -81,7 +81,7 @@ const Footer = () => {
 
            <Col lg='12'>
            <p className="footer__copyright">
-            Copyright {year } developed by Tosin Badmus. All rights reserved. 
+            Copyright {year } developed by Benson Oluwatosin. All rights reserved. 
            </p>
            </Col>  
         </Row>
